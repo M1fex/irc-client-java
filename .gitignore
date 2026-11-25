@@ -1,0 +1,6 @@
+# Результати збірки Maven
+target/
+
+# Локальні файли IntelliJ IDEA
+.idea/
+*.iml
